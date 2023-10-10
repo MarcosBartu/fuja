@@ -1,0 +1,51 @@
+
+
+body {
+    background-color: rgba(55, 59, 59, 0.596);
+}
+.painel {
+    margin: auto;
+    padding: 20px 20px 30px 20px;
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    border-radius: 20px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+    
+}
+
+img {
+   height: 350px;
+   width: 350px;
+   border-radius: 45%;
+}
+
+#sim {
+    height: 31px;
+    width: 66px;
+    background-color: rgba(24, 10, 218, 0.781);
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    margin-left: -78px;
+}
+
+#sim:hover {
+    height: 36px;
+    width: 68px;
+    background-color: rgba(20, 9, 167, 0.774);
+
+}
+
+#nao {
+    position: absolute;
+    height: 31px;
+    width: 75px;
+    background-color: rgba(24, 10, 218, 0.781);
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    margin-left: 12px;
+    padding: 7px 7px 5px 8px;
+}
